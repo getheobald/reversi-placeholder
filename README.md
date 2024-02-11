@@ -1,5 +1,5 @@
 # Reversi
-This repo is a placeholder for this project because the code is private at the professor's request to protect intellectual property. Please reach out at gracelyntheobald@gmail.com to view the code.
+This repo is a placeholder for this project because the code is private at the professor's request to protect intellectual property. Please reach out at gracelyntheobald@gmail.com to view.
 ## OVERVIEW
 This is a codebase for playing a game of Reversi, or Othello, on a hexagonal board rather than the traditional square. 
 The code supports both human vs human and human vs computer play, as well as supervised computer vs computer play. 
